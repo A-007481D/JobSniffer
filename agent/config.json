@@ -1,0 +1,7 @@
+{
+  "skills" : ["Laravel", "VueJs", "Docker", "DevOps", "CI/CD"],
+  "experience_years" : 1,
+  "locations": ["Casablanca", "Remote", "Rabat","Marrakech", "Agadir"],
+  "keywords": ["Automation", "CI/CD", "Docker", "AI"]
+
+}
